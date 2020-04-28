@@ -1,0 +1,2 @@
+jsx语法,不需要加引号，必须有一个根节点，来包裹。
+const app = <h1>hello World</h1>
